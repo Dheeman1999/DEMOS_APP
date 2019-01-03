@@ -1,4 +1,4 @@
-# DEMOS_APP
+# DeMonetisation Sentiment Analysis
 
 An app which expresses demonetisation using sentiments using  twitter API 
 How to read the project:
