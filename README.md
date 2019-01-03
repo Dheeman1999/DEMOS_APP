@@ -14,7 +14,7 @@ The first file is the main file for all the analysis.
 
 The second file is for the purpose of data collection for the first file to execute.You can run it in case you want to update the data as of now, feel free to run the second file too and raise any issue if at all some problem occurs.
 
-The summary of the report is available in ProjectReport.pptx.
+The summary of the report is available in ProjectReport.pdf.
 
 The file 'demon.csv' has all the tweet data while the 'Data.csv' has the AFINN dictionary for the primary analysis purpose.
 
