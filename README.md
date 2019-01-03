@@ -1,7 +1,9 @@
 # DeMonetisation Sentiment Analysis
 
-An app which expresses demonetisation using sentiments using  twitter API 
+A study on demonetisation sentiments using twitter API.
+
 How to read the project:
+
 There are two python files in the repository :
   
 	a.Demonetisation.py  
@@ -21,3 +23,4 @@ In addition,the files 'classifier.pickle' and 'tfidfmodel.pickle' have been incl
 The readings of initial analysis are summarised in 'BarGraphInitial.png'.
 
 The readings post the secondary analysis are summarised in 'BarGraphFinal.png'.
+
