@@ -12,7 +12,7 @@ There are two python files in the repository :
 
 The first file is the main file for all the analysis.
 
-The second file is for the purpose of data collection for the first file to execute.You can run it in case you want to update the data as of now, feel free to run the second file too and raise any issue if at all some problem occurs.
+The second file is for the purpose of data collection for the first file to execute.It`s optional to run it.You can run it in case you want to update the data as of now, feel free to run the second file too and raise any issue if at all some problem occurs.
 
 The summary of the report is available in ProjectReport.pdf.
 
